@@ -1,0 +1,5 @@
+/* Añade esto al FINAL de styles.css */
+.footer-links{display:flex;justify-content:center;align-items:center;gap:10px;flex-wrap:wrap}
+.footer-links a{font-weight:700;text-decoration:none}
+.footer-links a:hover{text-decoration:underline}
+.shop-access{color:#756d64;font-size:13px}
